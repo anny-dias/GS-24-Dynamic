@@ -55,9 +55,9 @@ print(distribuicao_otima)
 ## Bibliografia
 
 - **Clark, J. S. (2016). *Dynamic programming and optimal control.* CRC Press.**
---Este livro é uma excelente fonte para entender os princípios fundamentais da programação dinâmica e controle ótimo. Ele aborda conceitos-chave, como a formulação de problemas de otimização, o princípio do princípio da otimalidade de Bellman, algoritmos de programação dinâmica, e sua aplicação em uma variedade de áreas, incluindo engenharia, economia e ciências ambientais.
+ Este livro é uma excelente fonte para entender os princípios fundamentais da programação dinâmica e controle ótimo. Ele aborda conceitos-chave, como a formulação de problemas de otimização, o princípio do princípio da otimalidade de Bellman, algoritmos de programação dinâmica, e sua aplicação em uma variedade de áreas, incluindo engenharia, economia e ciências ambientais.
 - **Bang, H., Lee, S. K., Kim, H., & Park, H. (2015). *A review on optimal sensor placement for water distribution networks.* Journal of Hydroinformatics, 17(4), 491-503.**
--- Este artigo revisa as estratégias e métodos para o posicionamento ótimo de sensores em redes de distribuição de água. Ele aborda desafios específicos relacionados à monitorização de sistemas de abastecimento de água, como detecção de vazamentos, qualidade da água e eficiência operacional, e discute abordagens de otimização para melhorar o desempenho desses sistemas.
+ Este artigo revisa as estratégias e métodos para o posicionamento ótimo de sensores em redes de distribuição de água. Ele aborda desafios específicos relacionados à monitorização de sistemas de abastecimento de água, como detecção de vazamentos, qualidade da água e eficiência operacional, e discute abordagens de otimização para melhorar o desempenho desses sistemas.
 
  
 ---
