@@ -3,7 +3,9 @@
 # Projeto de Otimização de Recursos e Distribuição de Sensores no Ambiente Marinho
  
 Este projeto consiste em um conjunto de ferramentas e algoritmos para otimizar a alocação de recursos e distribuir sensores de forma eficiente no ambiente marinho. O objetivo principal é ajudar na conservação e monitoramento dos ecossistemas marinhos, permitindo uma melhor gestão de recursos e uma cobertura mais eficaz das áreas de interesse.
- 
+
+## Anny Dias RM:98295 e Luana Cabezaolias RM:99320
+
 ## Funcionalidades
  
 O projeto inclui as seguintes funcionalidades:
@@ -60,7 +62,7 @@ print(distribuicao_otima)
 **Clark, J. S. (2016). *Dynamic programming and optimal control.* CRC Press.**
 - Este livro é uma excelente fonte para entender os princípios fundamentais da programação dinâmica e controle ótimo. Ele aborda conceitos-chave, como a formulação de problemas de otimização, o princípio do princípio da otimalidade de Bellman, algoritmos de programação dinâmica, e sua aplicação em uma variedade de áreas, incluindo engenharia, economia e ciências ambientais.
 
-# Anny Dias RM:98295 e Luana Cabezaolias RM:99320
+
 ---
  
  
