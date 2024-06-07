@@ -60,7 +60,7 @@ print(distribuicao_otima)
 **Clark, J. S. (2016). *Dynamic programming and optimal control.* CRC Press.**
 - Este livro é uma excelente fonte para entender os princípios fundamentais da programação dinâmica e controle ótimo. Ele aborda conceitos-chave, como a formulação de problemas de otimização, o princípio do princípio da otimalidade de Bellman, algoritmos de programação dinâmica, e sua aplicação em uma variedade de áreas, incluindo engenharia, economia e ciências ambientais.
 
-##Anny Dias RM:98295 e Luana Cabezaolias RM:99320
+# Anny Dias RM:98295 e Luana Cabezaolias RM:99320
 ---
  
  
