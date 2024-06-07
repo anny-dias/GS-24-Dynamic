@@ -4,7 +4,7 @@
  
 Este projeto consiste em um conjunto de ferramentas e algoritmos para otimizar a alocação de recursos e distribuir sensores de forma eficiente no ambiente marinho. O objetivo principal é ajudar na conservação e monitoramento dos ecossistemas marinhos, permitindo uma melhor gestão de recursos e uma cobertura mais eficaz das áreas de interesse.
 
-** Anny Dias RM:98295 e Luana Cabezaolias RM:99320
+- Anny Dias RM:98295 e Luana Cabezaolias RM:99320
 
 ## Funcionalidades
  
